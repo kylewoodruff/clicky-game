@@ -2,19 +2,21 @@ import React, { Component } from "react";
 import FriendCard from "./components/CharacterCard";
 import Wrapper from "./components/Wrapper";
 import Jumbotron from "./components/Jumbotron";
-import friends from "./friends.json";
+import character from "./friends.json";
 
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
-    friends
+    character,
+    score: 0,
+    highscore: 0
   };
 
-  removeFriend = id => {
-    // Filter this.state.friends for friends with an id not equal to the id being removed
-    const friends = this.state.friends.filter(friend => friend.id !== id);
+  sortCharacters = () => {
+    // sort this.state.character for character with an a new order
+    const character = this.shuffle(this.state.character);
     // Set this.state.friends equal to the new friends array
-    this.setState({ friends });
+    this.setState({ character });
   };
 
   shuffle = array => {
@@ -40,9 +42,9 @@ class App extends Component {
     return (
       <Wrapper>
         <Jumbotron />
-        {this.state.friends.map(friend => (
+        {this.state.character.map(friend => (
           <FriendCard
-            removeFriend={this.removeFriend}
+            sortCharacters={this.sortCharacters}
             id={friend.id}
             name={friend.name}
             image={friend.image}

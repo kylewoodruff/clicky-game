@@ -9,7 +9,7 @@ function Jumbotron(props) {
                 <p className="lead">Test your memory out with this game. Try to not click on the same image twice or you loose.</p>
                 <hr className="my-4"></hr>
                 <div className="score">
-                    <h4>Score:</h4>
+                    <h4>Score:{props.score}</h4>
                 </div>
             </div>
         </div>

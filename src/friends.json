@@ -1,86 +1,77 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "name": "LUKE SKYWALKER",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/luke-skywalker-main_5a38c454_461eebf5.jpeg"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "name": "C-3PO",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/C-3PO-See-Threepio_68fe125c.jpeg"
   },
   {
     "id": 3,
-    "name": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "name": "ANAKIN SKYWALKER",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Anakin-Skywalker_d3330724.jpeg"
   },
   {
     "id": 4,
-    "name": "Dexter",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "name": "PADMÉ AMIDALA",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Padme-Amidala_05d50c8a.jpeg"
   },
   {
     "id": 5,
-    "name": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "name": "REY",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/talj-rey-main-image-2_668bb5dc.jpeg"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "name": "NEEPERS PANPICK",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/last-jedi-databank-neepers-panpick-main-image_273190de.jpeg"
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "name": "CHEWBACCA",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/solo-chewbacca-main_80768fa8.jpeg"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "name": "KYLO REN",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/kylo-ren-db-main_e2e6f666.jpeg"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-    "occupation": "Adventurer",
-    "location": "California"
+    "name": "POE DAMERON",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/poe-dameron_70f5aee2.jpeg"
   },
   {
     "id": 10,
-    "name": "Rocko",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "name": "AMILYN HOLDO",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/ep8-ff-004349_fd1e44fa.jpeg"
   },
   {
     "id": 11,
-    "name": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "name": "CAPTAIN PHASMA",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/captain-phasma_8f4ea1d7.jpeg"
   },
   {
     "id": 12,
-    "name": "Ickis",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "name": "FN-2187",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/finn-main_952e10d2.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "ROSE TICO",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/rose-tico-db-tlj_a70bef86.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "BB-8",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/bb8-main_5111718b.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "HAN SOLO",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/han-solo-main_a4c8ff79.jpeg"
   }
 ]

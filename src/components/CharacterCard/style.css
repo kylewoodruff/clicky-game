@@ -1,0 +1,29 @@
+/* .card {
+  background: #fff;
+  border-radius: 2px;
+  height: auto;
+  margin: 1rem;
+  position: relative;
+  width: 325px;
+  height: 250px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+} */
+.card {
+  width: 18rem;
+  margin-bottom: 10px;
+  max-height: 200px;
+}
+
+.card-img-top {
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
+  overflow: hidden;
+  height: auto;
+}
+
+/* .card > img {
+  width: 100%
+} */
+
+
